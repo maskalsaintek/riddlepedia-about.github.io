@@ -1,10 +1,8 @@
-# About Us
-
-Welcome to **Riddlepedia**! We are passionate about bringing together a community of riddle enthusiasts from all over the world. Our mission is to provide a fun and engaging platform where users can challenge their minds, share their creativity, and connect with others who love riddles as much as we do.
+<p align="justify">Welcome to **Riddlepedia**! We are passionate about bringing together a community of riddle enthusiasts from all over the world. Our mission is to provide a fun and engaging platform where users can challenge their minds, share their creativity, and connect with others who love riddles as much as we do.</p>
 
 ## Our Story
 
-Riddlepedia was founded by a group of friends who share a deep love for puzzles and riddles. We noticed that there wasn't a dedicated platform for riddle lovers to create, share, and solve riddles in a community-driven environment. That's when we decided to create Riddlepedia - a place where everyone can enjoy the thrill of solving riddles and the joy of crafting their own.
+<p align="justify">Riddlepedia was founded by a group of friends who share a deep love for puzzles and riddles. We noticed that there wasn't a dedicated platform for riddle lovers to create, share, and solve riddles in a community-driven environment. That's when we decided to create Riddlepedia - a place where everyone can enjoy the thrill of solving riddles and the joy of crafting their own.</p>
 
 ## Our Mission
 
@@ -22,12 +20,13 @@ Our mission is to:
 
 ## Meet the Team
 
-We are a small but dedicated team of developers, designers, and puzzle enthusiasts. Our diverse backgrounds and shared passion for riddles drive us to continuously improve Riddlepedia and provide the best experience for our users.
+<p align="justify">We are a small but dedicated team of developers, designers, and puzzle enthusiasts. Our diverse backgrounds and shared passion for riddles drive us to continuously improve Riddlepedia and provide the best experience for our users.</p>
 
 ## Contact Us
 
-We love hearing from our users! If you have any questions, feedback, or suggestions, feel free to reach out to us at [support@riddlepedia.com](mailto:support@riddlepedia.com). You can also follow us on our social media channels for the latest updates and news.
+<p align="justify">We love hearing from our users! If you have any questions, feedback, or suggestions, feel free to reach out to us at [support@riddlepedia.com](mailto:support@riddlepedia.com). You can also follow us on our social media channels for the latest updates and news.
 
 Thank you for being a part of the Riddlepedia community. Happy riddling!
 
 The Riddlepedia Team
+</p>
